@@ -1,0 +1,15 @@
+C:\platzi\Hackerrank\bin\Debug\net6.0\Hackerrank.exe
+C:\platzi\Hackerrank\bin\Debug\net6.0\Hackerrank.deps.json
+C:\platzi\Hackerrank\bin\Debug\net6.0\Hackerrank.runtimeconfig.json
+C:\platzi\Hackerrank\bin\Debug\net6.0\Hackerrank.dll
+C:\platzi\Hackerrank\bin\Debug\net6.0\Hackerrank.pdb
+C:\platzi\Hackerrank\obj\Debug\net6.0\Hackerrank.csproj.AssemblyReference.cache
+C:\platzi\Hackerrank\obj\Debug\net6.0\Hackerrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\platzi\Hackerrank\obj\Debug\net6.0\Hackerrank.AssemblyInfoInputs.cache
+C:\platzi\Hackerrank\obj\Debug\net6.0\Hackerrank.AssemblyInfo.cs
+C:\platzi\Hackerrank\obj\Debug\net6.0\Hackerrank.csproj.CoreCompileInputs.cache
+C:\platzi\Hackerrank\obj\Debug\net6.0\Hackerrank.dll
+C:\platzi\Hackerrank\obj\Debug\net6.0\refint\Hackerrank.dll
+C:\platzi\Hackerrank\obj\Debug\net6.0\Hackerrank.pdb
+C:\platzi\Hackerrank\obj\Debug\net6.0\Hackerrank.genruntimeconfig.cache
+C:\platzi\Hackerrank\obj\Debug\net6.0\ref\Hackerrank.dll
