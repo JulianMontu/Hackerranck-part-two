@@ -24,14 +24,12 @@ namespace Hackerrank
                 if (a[i] > b[i])
                 {
                     pointsA++;
-                    list.Insert(0, pointsA);
-                    list.RemoveAt(2);
+                    list[0] = pointsA;
                 }
                 if (a[i] < b[i])
                 {
                     pointsB++;
-                    list.Insert(1, pointsB);
-                    list.RemoveAt(2);
+                    list[1] = pointsB;
                 }
             }
             return list;
